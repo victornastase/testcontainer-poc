@@ -1,6 +1,6 @@
 package com.victornastase.testcontainerpoc.resources;
 
-import com.victornastase.testcontainerpoc.models.Game;
+import com.victornastase.testcontainerpoc.models.entities.Game;
 import com.victornastase.testcontainerpoc.repositories.GameRepo;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
